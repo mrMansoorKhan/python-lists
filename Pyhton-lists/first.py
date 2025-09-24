@@ -10,3 +10,8 @@ print(a)
 
 
 print(a[0]) 
+
+
+student = ["Mansoor", 94, "Swat"]
+
+student[0] = "Mansoor Ali Khan" # allowed in python
